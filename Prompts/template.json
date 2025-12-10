@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_input",
+        "paper_input",
+        "style_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Summarize the research paper titled \"{paper_input}\" with the following specifications:\n    Explanation Style: \"{style_input}\"\n    Explanation Length: \"{length_input}\"\n    If certain info is not available, respond with \"Insufficient Info available instead of guessing.\"\n    1. Mathematical details:\n         - Include relevant Mathematical equations if present in paper\n         - Explain the mathematical concepts using simple, intuitive code snippets",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
