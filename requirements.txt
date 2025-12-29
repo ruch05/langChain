@@ -14,4 +14,5 @@ grandalf
 langchain-community
 pypdf
 beautifulsoup4
+langchain-experimental
 #pip install -r requirements.txt  
