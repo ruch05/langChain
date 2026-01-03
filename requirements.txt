@@ -15,4 +15,10 @@ langchain-community
 pypdf
 beautifulsoup4
 langchain-experimental
+chromadb
+langchain-chroma
+tiktoken
+openai
+langchain-pinecone
+pinecone
 #pip install -r requirements.txt  
